@@ -1,3 +1,4 @@
+![pngtree-save-tree-conceptstock-vector-school-upwards-pencil-vector-png-image_15372634-removebg-preview](https://github.com/user-attachments/assets/334c1f93-cf4f-4c78-9653-3cb0a0321cc8)
 VATA_RAKSHAK - "TREE CUTTING ALERTING SYSTEM" 
 Problem Statement: Uncontrolled forest fire and illegal deforestation for theft poses a significant threat to our environment and global sustainability.
 EXISTING SOLUTION: The government is employing "conventional strategies" to curb  illegal deforestation. Through Zoning, From local people, Forest Management and  Monitoring, Drone-based identification, Public Awareness, Regulatory Enforcement 
